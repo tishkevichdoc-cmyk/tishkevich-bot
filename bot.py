@@ -12,7 +12,6 @@ API = f"https://api.telegram.org/bot{TOKEN}"
 def api_call(method, data=None, files=None):
     url = f"{API}/{method}"
     if files:
-        import urllib.request
         boundary = "----boundary"
         body = b""
         for key, val in (data or {}).items():
