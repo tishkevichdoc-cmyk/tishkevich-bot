@@ -4,7 +4,7 @@ import time
 import urllib.request
 
 # Токен читаем из переменной окружения
-BOT_TOKEN = os.environ["BOT_TOKEN"]
+BOT_TOKEN = "8034751650:AAGerLz5KA9OJAFdhAK0lWOgaZGneYthE5M"
 CHANNEL = "@tishkevichdoc"
 PDF_PATH = "metodichka.pdf"
 
