@@ -5,7 +5,7 @@ import urllib.request
 
 # Токен читаем из переменной окружения
 BOT_TOKEN = "8034751650:AAGerLz5KA9OJAFdhAK0lWOgaZGneYthE5M"
-CHANNEL = "@tishkevichdoc"
+CHANNEL = "-1001788043121"
 PDF_PATH = "metodichka.pdf"
 
 
