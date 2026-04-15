@@ -72,7 +72,7 @@ def send_pdf(chat_id):
 def keyboard():
     return {
         "inline_keyboard": [
-            [{"text": "📢 Подписаться на канал", "url": "https://t.me/tishkevichdoc"}],
+            [{"text": "📢 Подписаться на канал", "url": "https://t.me/tishkevicdoc"}],
             [{"text": "✅ Я подписался", "callback_data": "check"}]
         ]
     }
