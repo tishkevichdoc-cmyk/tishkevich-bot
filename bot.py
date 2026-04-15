@@ -111,7 +111,7 @@ def handle(update):
             else:
                 edit_message(chat_id, msg_id,
                     "❌ Вы ещё не подписались.\n\n"
-                    "Подпишитесь на @tishkevichdoc и нажмите *«Я подписался»* ещё раз.",
+                    "Подпишитесь на @tishkevicdoc и нажмите *«Я подписался»* ещё раз.",
                     keyboard()
                 )
 
